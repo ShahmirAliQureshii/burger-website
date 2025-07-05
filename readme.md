@@ -1,6 +1,6 @@
 # 🍔 Burger Brand Website
 
-A stylish and fully responsive single-page **burger brand website** built using **HTML**, **CSS**, and **JavaScript** with **GSAP animations** to deliver a smooth and modern user experience.
+A stylish and fully responsive single-page **burger brand website** built using **HTML**, **CSS**, and **JavaScript** with **animations** to deliver a smooth and modern user experience.
 
 🎯 Live Website: [burgerwebsitebyshahmir.netlify.app](https://burgerwebsitebyshahmir.netlify.app)  
 📂 GitHub Repo: [github.com/ShahmirAliQureshii/burger-website](https://github.com/ShahmirAliQureshii/burger-website)
@@ -11,9 +11,9 @@ A stylish and fully responsive single-page **burger brand website** built using 
 
 - 🍔 One-page responsive layout
 - 🎨 Modern and clean UI design
-- ✨ Smooth scroll-based **GSAP animations**
+- ✨ Smooth scroll
 - 📱 100% Mobile-friendly and responsive
-- 📌 Sections: Hero, Favorites, About, Order Now, Contact
+- 📌 Sections: Hero, Home, Recipe, Popular, Delivery, Contact
 - 💡 Semantic HTML and well-commented CSS/JS
 
 ---
@@ -23,7 +23,6 @@ A stylish and fully responsive single-page **burger brand website** built using 
 - HTML
 - CSS
 - JavaScript
-- GSAP (for animations)
 
 ---
 
